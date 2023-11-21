@@ -1,4 +1,4 @@
 # sample-app-playground
 
 - first description
-- second
+- second description
